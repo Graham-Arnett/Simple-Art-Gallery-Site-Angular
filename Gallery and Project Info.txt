@@ -1,0 +1,6 @@
+11/28/2024
+Hello! My name is Graham, and this is going to be my angular art gallery project.
+I wanted to practice and develop my skills more, and I love drawing so this seemed perfect.
+The way this document works is I'll hav the date for a section, followed by what has been changed or fixed on this date, as well as possible plans for the next.
+Some plans I have right now are to have several gallerys basd on different medias or themes, as well as a rudimentary drawing app that populates a different gallery.
+This is a work in progress and may be a long time in the making.
