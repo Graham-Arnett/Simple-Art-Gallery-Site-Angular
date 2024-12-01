@@ -4,3 +4,6 @@ I wanted to practice and develop my skills more, and I love drawing so this seem
 The way this document works is I'll hav the date for a section, followed by what has been changed or fixed on this date, as well as possible plans for the next.
 Some plans I have right now are to have several gallerys basd on different medias or themes, as well as a rudimentary drawing app that populates a different gallery.
 This is a work in progress and may be a long time in the making.
+
+12/1/2024 
+Found out my error, I moved a component and that created a problem in the app.module. That has been fixed, when I return tomorrow I can start working on this proper.
