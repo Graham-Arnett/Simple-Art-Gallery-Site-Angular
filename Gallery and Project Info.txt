@@ -5,5 +5,10 @@ The way this document works is I'll hav the date for a section, followed by what
 Some plans I have right now are to have several gallerys basd on different medias or themes, as well as a rudimentary drawing app that populates a different gallery.
 This is a work in progress and may be a long time in the making.
 
+<<<<<<< HEAD
 12/1/2024 
 Found out my error, I moved a component and that created a problem in the app.module. That has been fixed, when I return tomorrow I can start working on this proper.
+=======
+11/29/2024
+Having some errors, I might have built it wrong, will be checking when I get back from traveling on monday, but if this is just built wrong I'll delete and start over.
+>>>>>>> b890df8d33d74c8c938b9d69faccc2607c404a84
